@@ -1,3 +1,5 @@
+https://github.com/web-infra-dev/rspack/issues/15520
+
 # rspack `css/module`: `@value` not substituted in `@media` conditions and selectors
 
 Rspack's native CSS modules implementation does not substitute `@value` references
