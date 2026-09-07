@@ -1,0 +1,8 @@
+@value mq: (max-width: 599px);
+@value selector: .globalThing;
+
+@media mq {
+    .inMedia { color: red; }
+}
+
+selector { color: blue; }

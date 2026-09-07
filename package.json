@@ -1,0 +1,14 @@
+{
+    "name": "rspack-css-atvalue",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "description": "Repro: rspack css/module does not substitute @value references in @media conditions and selectors",
+    "scripts": {
+        "build": "node build.mjs"
+    },
+    "devDependencies": {
+        "@rspack/core": "2.2.2",
+        "webpack": "5.108.4"
+    }
+}
